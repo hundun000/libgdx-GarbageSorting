@@ -1,0 +1,34 @@
+
+images.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+recycle-bin
+  rotate: false
+  xy: 2, 2
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+recycle-can
+  rotate: false
+  xy: 60, 31
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+unrecycle-bin
+  rotate: false
+  xy: 31, 2
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+unrecycle-fishbone
+  rotate: false
+  xy: 60, 13
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
